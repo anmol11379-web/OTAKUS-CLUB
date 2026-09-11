@@ -6,7 +6,7 @@
 
 ## 🚀 Live Deployment
 
-- **Live Demo Link:** [https://otakus-club.vercel.app](https://otakus-club.vercel.app) *(or replace with your custom deployment URL)*
+- **Live Demo Link:** [Otakus-AnimeClub](https://otakus-animeclub.netlify.app/) *(or replace with your custom deployment URL)*
 
 ---
 
